@@ -9,7 +9,7 @@
 
 >-**WPF** syntax and functions
 >
->-Adding **dll files** and using them
+>-Importing **dll files** and using them
 >
 >-Using **colors**, **bitmaps** and **width**
 >
