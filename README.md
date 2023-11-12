@@ -13,4 +13,6 @@
 >
 >-Using **colors**, **bitmaps** and **width**
 >
+>-Designing User Interface with xaml
+>
 >-Working with **system events** "*0x0002*, *0x0004*, etc."
