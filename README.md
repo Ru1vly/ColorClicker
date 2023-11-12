@@ -2,7 +2,7 @@
 
 >A bot double clicks written hex code.
 
-## Is it useful?
+## Is It Useful?
 >Absolutely not. 
 
 ## What I Learned
