@@ -1,0 +1,16 @@
+﻿<Window x:Class="ColorBot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorBot"
+        mc:Ignorable="d"
+        Title="ColorClicker" Height="200" Width="300" ResizeMode="NoResize" Background="#1c1c1c">
+    <Grid>
+        <Button Name="ButtonSearchPixel" Click="OnButtonSearchPixelClick" Content="Search Pixel" HorizontalAlignment="Center"
+                Margin="0,50,0,0" VerticalAlignment="Center" Width="200" Height="30" Background="Black" Foreground="AntiqueWhite"/>
+
+        <TextBox Name="TextBoxHexColor" Margin="0,50,0,0" TextWrapping="Wrap" Text="#ffffff" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="Black" Foreground="AntiqueWhite" HorizontalAlignment="Center" Width="200" Height="30" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
